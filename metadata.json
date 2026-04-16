@@ -1,6 +1,0 @@
-{
-  "name": "Gemma Hub",
-  "description": "A high-performance chat interface for local Ollama instances, optimized for Gemma. Features streaming, conversation history, and advanced search.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
